@@ -1,0 +1,22 @@
+{
+  "name": "repo4sprint1mod3",
+  "version": "1.0.0",
+  "description": "repositorio 4 del sprint 1 del modulo 3",
+  "main": "server.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VicRamD/repo4_sprint1_modulo3.git"
+  },
+  "author": "Victor Francisco Ramirez Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VicRamD/repo4_sprint1_modulo3/issues"
+  },
+  "homepage": "https://github.com/VicRamD/repo4_sprint1_modulo3#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
