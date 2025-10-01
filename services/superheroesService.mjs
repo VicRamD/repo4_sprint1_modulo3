@@ -18,5 +18,6 @@ export function obtenerSuperheroesMayoresDe30(){
     const superheroes = repository.obtenerTodos();
     return superheroes.filter(hero =>
         hero.edad > 30 && hero.planetaOrigen === 'Tierra' && hero.poder.length >= 2
+        //se cumple la condición solo si tienen la edad, son de la Tierra y tienen 2 o + poderes
     );
 }

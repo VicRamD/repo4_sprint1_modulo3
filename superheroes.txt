@@ -21,4 +21,21 @@
     "poder": ["Controlar el trueno", "Fuerza sobrehumana", "Inmortal"],
     "habilidadEspecial": "Invocación de tormentas",
     "aliado": ["Loki"], "enemigo": ["Hela"]
-}]
+},
+{
+    "id": 4, "nombreSuperheroe": "Primer Pedrada", "nombreReal": "Pedro Del Monte",
+    "nombreSociedad": "Vigilante", "edad": 26,
+    "planetaOrigen": "Tierra", "debilidad": "Enmascarar intenciones",
+    "poder": ["Reflejos superhumanos", "Manejo de multiples armas", "Agilidad"],
+    "habilidadEspecial": "Sentido de peligro",
+    "aliado": ["Creador de Juego"], "enemigo": ["Sonambulo"]
+},
+{
+    "id": 5, "nombreSuperheroe": "Milenia", "nombreReal": "Melina Diaz",
+    "nombreSociedad": "Desconocida", "edad": 1200,
+    "planetaOrigen": "Tierra", "debilidad": "Desconocida",
+    "poder": ["Conocimiento ancestral", "Inmortalidad"],
+    "habilidadEspecial": "Regeneración",
+    "aliado": ["Estrella Fugaz"], "enemigo": ["Rey del Inframundo"]
+}
+]
